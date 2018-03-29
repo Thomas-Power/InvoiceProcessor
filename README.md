@@ -18,4 +18,4 @@ This system is entrusted with the following:
 
 Below is a simple class diagram displaying the systems overall structure:
 
-![alt text](https://raw.githubusercontent.com/Thomas-Power/InvoiceManager/master/class%20diagram.png)
+![alt text](https://raw.githubusercontent.com/Thomas-Power/InvoiceProcessor---Python/master/class%20diagram.png)
