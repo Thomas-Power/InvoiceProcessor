@@ -15,7 +15,3 @@ This system is entrusted with the following:
 * Such responses includes measures to analyse weeks purchases and adjust location of orders so as to minimize volume of trade affected
 
 * System is configured in order that users within firm with no programming knowledge may access and make changes to accounts (and thus client files) solely through excel.
-
-Below is a simple class diagram displaying the systems overall structure:
-
-![alt text](https://raw.githubusercontent.com/Thomas-Power/InvoiceProcessor---Python/master/class%20diagram.png)
