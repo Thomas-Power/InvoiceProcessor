@@ -1,6 +1,6 @@
 # InvoiceProcessor
-Python developed system for processing firms excel accounts and dynamically outputting invoices for given month
-This system is entrusted with the following:
+Python developed system for processing firms excel accounts into NoSQL database and dynamically outputting invoices for given month.
+This system performs following specifications:
 
 * On initialization automatically registers the current month and produces accounts according to that date.
 
