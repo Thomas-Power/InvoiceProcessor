@@ -111,4 +111,4 @@ for customer in customers.find():
 	else:
 		sheet.cell(row=50, column=4).value = ""
 
-	wbook.save('.\\Output2\\' + str(customer["customer_no"]) + "- " + customer["name"] + ".xlsx")
+	wbook.save('.\\Output\\' + str(customer["customer_no"]) + "- " + customer["name"] + ".xlsx")
